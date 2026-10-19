@@ -1,5 +1,4 @@
 
 ### Introduction
 
-This is my GitHub page for my school projects! 
-
+My github for school projects, as well as other things I've worked on.
